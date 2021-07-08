@@ -12,4 +12,5 @@ It hosts .asm files that have not been linked nor compiled. These files were mad
 This is a little interactive game that I made in July, 2019. I decided to use Jquery to try to teach myself about this amazing framework that makes programming with JavaScript so much easier. It may have bugs, so don´t hesitate to tell me if you find one.
 # Old Portfolio Website
 This one is a small portfolio website I made a long time ago, not very well done though :(
+Feel free to access it through Github Pages in this repository :O
 
